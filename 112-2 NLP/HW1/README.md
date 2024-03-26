@@ -64,7 +64,7 @@
   tokens = [token.lower() for token in tokens]
   ```
 ---
-> 詞頻計算
+> Word Frequency 詞頻計算
 
   計算每個單詞在這份文件中總共出現的次數，並將次數少的字詞刪除。
   
