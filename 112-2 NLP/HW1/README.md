@@ -19,7 +19,8 @@
 
 ### Note
 紀錄在作業上有嘗試過的方法，但未必有用在作業內。
-----
+
+---
 > Delete Stop Words
 - **Method 1: nltk.corpus**
   
