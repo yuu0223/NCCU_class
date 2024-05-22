@@ -1,4 +1,10 @@
-## HW1 - Naive Bayes Classifier 電影情緒正負面分類任務
+## 電影情緒正負面分類任務
+
+### HW1-3
+- [HW1 - Naive Bayes Classifier](https://github.com/yuu0223/NCCU_class/blob/main/112-2%20NLP/HW1/HW1_Naive_Bayes_Classifier.ipynb)
+- [HW2 - Simple NN Classifier](https://github.com/yuu0223/NCCU_class/blob/main/112-2%20NLP/HW2/HW2_Simple_NN_Classifier.ipynb)
+- [HW3 - Transformer](https://github.com/yuu0223/NCCU_class/blob/main/112-2%20NLP/HW3/HW3_Transformer.ipynb)
+
 ### Description
 使用 Naive Bayes Classifier 來進行電影情緒正負面分類任務，Dataset 使用 **nltk** 的 **movie_reviews**。
 
