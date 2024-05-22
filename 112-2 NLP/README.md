@@ -1,6 +1,6 @@
 ## 電影情緒正負面分類任務
 
-### HW1-3
+### HW outline
 - [HW1 - Naive Bayes Classifier](https://github.com/yuu0223/NCCU_class/blob/main/112-2%20NLP/HW1/HW1_Naive_Bayes_Classifier.ipynb)
 - [HW2 - Simple NN Classifier](https://github.com/yuu0223/NCCU_class/blob/main/112-2%20NLP/HW2/HW2_Simple_NN_Classifier.ipynb)
 - [HW3 - Transformer](https://github.com/yuu0223/NCCU_class/blob/main/112-2%20NLP/HW3/HW3_Transformer.ipynb)
@@ -11,16 +11,16 @@
 目標是希望能將電影分類提升到0.85以上。
 
 ### Limit
-請修改 Code Lab 提供的 Naive Bayes Classifier，使得電影分類的效能可以提升到 0.85 以上，且越高越好。
-注意，只能修改 NaiveBayesClassifier 類別的內容，不要更動 Code Lab 其他部份。此外，必須手動修改程式，不能使用現成的分類器，也不能偷渡非 Naive Bayes 精神的分類器（如 decision tree、logistic regression、neural network 等）。
+請修改 Code Lab 提供的各項分類器，使得電影分類的效能可以提升到 0.85 以上，且越高越好。
+注意，只能修改model內容，不要更動 Code Lab 其他部份。此外，必須手動修改程式，不能使用現成的分類器，也不能偷渡非該次作業的分類器（如 decision tree、logistic regression 等）。
 
-在 Naive Bayes 模型的基礎上，可能修改的方向：
+在模型的基礎上，可能修改的方向：
 - word tokenization的方式
 - 是否要合併 tokens（忽略大小寫、stemming、lemmatization…）
 - 是否要考慮詞彙出現次數，而不只是有無出現
 - 是否排除太少出現的詞、不重要的詞？
-- 不同的 Additive smoothing 的 k 值
-- 不同的 Smoothing 的方式 ( https://dl.acm.org/doi/pdf/10.1145/2187980.2188169 )
+- 不同的 Additive smoothing 的 k 值 (for NB)
+- 不同的 Smoothing 的方式 ( https://dl.acm.org/doi/pdf/10.1145/2187980.2188169 ) (for NB)
 - 自行發揮創意
 
 ### Note
@@ -102,7 +102,8 @@
           self.class_feature_counts[label][ngram] += 1
   
   ```
+---
+> Transformer
 
-### Colab Link
-- [Google Colab](https://colab.research.google.com/drive/1zYN9doEg8is8gQkc3ewi39L1e-QiKaIz?usp=sharing)
+原本 hyper-parameter 怎麼調 Acc 都落在 0.72~0.79左右，加上 ```sliding window``` 後就可以達到 0.93 
 
