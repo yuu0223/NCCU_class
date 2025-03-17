@@ -22,14 +22,3 @@
   4.) 會員註冊／登入
   
   5.) Line Bot
-
-- **工具介紹**
-  > **Fronted**
-  - Node.js
-  - Figma
-
-
-  > **Backend**
-  - FastAPI
-  - MySQL
-  - Docker
