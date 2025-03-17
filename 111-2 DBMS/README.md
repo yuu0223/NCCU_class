@@ -5,6 +5,7 @@
 - [HW2 - SQL Practice (Employee)](https://github.com/yuu0223/NCCU_class/tree/main/111-2%20DBMS/HW2)
 - [HW3 - ER model](https://github.com/yuu0223/NCCU_class/tree/main/111-2%20DBMS/HW3)
 - [HW4 - SQL Practice (IMDB)](https://github.com/yuu0223/NCCU_class/tree/main/111-2%20DBMS/HW4)
+- [Final Project - Easy Book](https://github.com/Hunter107306009/Easy_book)
 
 ### Description
 - **HW1 - Create DB**
