@@ -1,4 +1,4 @@
-### Bio Info 生物資訊概論與實務
+## Bio Info 生物資訊概論與實務
 
 ### HW outline
 - [HW1 - generate PAMx matrix](https://github.com/yuu0223/NCCU_class/tree/main/112-1%20Bio%20Information/HW1)
