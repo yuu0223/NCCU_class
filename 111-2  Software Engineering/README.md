@@ -24,11 +24,11 @@
   5.) Line Bot
 
 - **工具介紹**
-> **Fronted**
-- Node.js
-- Figma
+  > **Fronted**
+  - Node.js
+  - Figma
 
-> **Backend**
-- FastAPI
-- MySQL
-- Docker
+  > **Backend**
+  - FastAPI
+  - MySQL
+  - Docker
