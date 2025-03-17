@@ -1,0 +1,1 @@
+def generate_pam(x, input_path, output_path):
