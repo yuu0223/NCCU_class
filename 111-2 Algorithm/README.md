@@ -1,1 +1,0 @@
-# NCCU_class
