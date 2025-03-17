@@ -28,6 +28,7 @@
   - Node.js
   - Figma
 
+
   > **Backend**
   - FastAPI
   - MySQL
