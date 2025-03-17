@@ -14,7 +14,21 @@
   我們有提供以下幾種服務：
   
   1.) 論壇活動發起
+  
   2.) 提供醫療文章
+  
   3.) 醫療診所地圖
+  
   4.) 會員註冊／登入
+  
   5.) Line Bot
+
+- **工具介紹**
+> **Fronted**
+- Node.js
+- Figma
+
+> **Backend**
+- FastAPI
+- MySQL
+- Docker
