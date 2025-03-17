@@ -1,4 +1,5 @@
 # NCCU_class
+記錄碩班修過的課程作業與專案
 
 ### Outline
 - [軟體工程 Software Engineering](https://github.com/yuu0223/NCCU_class/tree/main/111-2%20%20Software%20Engineering)
