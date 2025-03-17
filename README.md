@@ -1,6 +1,14 @@
 # NCCU_class
 
 ### Outline
+- [軟體工程 Software Engineering](https://github.com/yuu0223/NCCU_class/tree/main/111-2%20%20Software%20Engineering)
+- [演算法 Algorithm](https://github.com/yuu0223/NCCU_class/tree/main/111-2%20Algorithm)
+- [資料庫系統管理 Database Management System](https://github.com/yuu0223/NCCU_class/tree/main/111-2%20DBMS)
+- [資料科學 Data Science](https://github.com/yuu0223/NCCU_class/tree/main/111-2%20Data%20Science)
+- [生物資訊概論與實務 Bio Information](https://github.com/yuu0223/NCCU_class/tree/main/112-1%20Bio%20Information)
+- [資料採掘 Data Mining](https://github.com/yuu0223/NCCU_class/tree/main/112-1%20Data%20Mining)
+- [深度學習 Deep Learning](https://github.com/yuu0223/NCCU_class/tree/main/112-1%20Deep%20Learning)
+- [自然語言處理 Natural Language Processing](https://github.com/yuu0223/NCCU_class/tree/main/112-2%20NLP)
 
 
 ### Course
@@ -41,6 +49,7 @@
 ---
 
 > **資料科學 Data Science**
+
 **簡介**
 - 學習資料科學相關知識，像是模型評估指標(precision、recall)、PCA、視覺化圖表等。
 
@@ -50,6 +59,7 @@
 ---
 
 > **生物資訊概論與實務 Bio Information**
+
 **簡介**
 - 學習生物資訊與資訊科技結合之分析。
 
@@ -60,6 +70,7 @@
 ---
 
 > **資料採掘 Data Mining**
+
 **簡介**
 - 學習Data Mining相關知識，像是Association Rules、Clustering、EDA等。
 
@@ -69,6 +80,7 @@
 ---
 
 > **深度學習 Deep Learning**
+
 **簡介**
 - 學習深度學習相關知識，像是CNN、RNN模型運作原理等。
 
@@ -78,6 +90,7 @@
 ---
 
 > **自然語言處理 Natural Language Processing**
+
 **簡介**
 - 學習自然語言處理相關知識，像是text processing、word embedding等。
 - 學習LLM發展進程
