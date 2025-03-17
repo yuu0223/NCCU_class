@@ -1,4 +1,4 @@
-## 電影情緒正負面分類任務
+## NLP hw1-hw3 電影情緒正負面分類任務
 
 ### HW outline
 - [HW1 - Naive Bayes Classifier](https://github.com/yuu0223/NCCU_class/blob/main/112-2%20NLP/HW1/HW1_Naive_Bayes_Classifier.ipynb)
